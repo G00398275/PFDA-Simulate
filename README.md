@@ -12,7 +12,5 @@ For this project I will be creating a dataset to simulate a real-world problem. 
 
 1. The English Grand National  
 2. The English Derby  
-3. The Kentucky Derby  
-4. The Melbourne Gold Cup  
-
+  
 The simulation is located in the Jupyter notebook "Simulate.ipynb" contained in this folder.
