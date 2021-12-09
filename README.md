@@ -59,7 +59,8 @@ age = rng.integers(low=8, high=12, size=200)
 age`  
 
 
-This is the code used to generate the age of winning horses in a uniform distribution. If the age profile changes then the user can adjust the low or high values. If the user wishes to simulate more than 200 races, then they can increase the size values. If the distribution type is required to be changed then a different type of numpy distribution is required. See [numpy](https://numpy.org/doc/stable/user/) for further information on distribution types.
+This is the code used to generate the age of winning horses in a uniform distribution. If the age profile changes then the user can adjust the low or high values. If the user wishes to simulate more than 200 races, then they can increase the size values. If the distribution type is required to be changed then a different type of numpy distribution is required. See [numpy](https://numpy.org/doc/stable/user/) for further information on distribution types.  
+
 
 ## Credits
 ***
@@ -88,3 +89,7 @@ Seaborn is also a plotting library used in Python. It is based on Matplotlib, bu
 SQLite 3 is used to create an embedded database, this can be used to edit the simulated database when required.  
 
 
+## Contact 
+*** 
+
+I can be contacted by e-mail at 'G00398275@gmit.ie' for any queries or issues.
