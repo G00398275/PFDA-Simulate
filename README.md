@@ -42,14 +42,14 @@ NB Viewer for a static version of the notebook
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://github.com/G00398275/PFDA-Simulate/blob/main/Simulate.ipynb)  
 
 
-Binder for a dynamic copy which you can edit if required  
+Binder for a dynamic copy which you can edit if required
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/G00398275/PFDA-Simulate/HEAD?labpath=Simulate.ipynb)
 
 ## Explore
 ***
 
-Have a look at the jupyter notebook 'Simulate.ipynb'. As mentioned previously it simulates runnings of the famous Aintree Grand National horse race. Simulations have been created based on the statistics of previous winners. The statistics considered were age, weight, breeding, odds, and rating. Based on the the trends of winners of this race from the previous twenty years I have simulated two hundred runnings of the race added all data to a dataframe. This dataframe provides a guideline as to the probable characteristics of a winning horse in this race. This could be used to help predict successful horses in this steeplechase.  
+Have a look at the jupyter notebook 'Simulate.ipynb'. As mentioned previously it simulates runnings of the famous Aintree Grand National horse race. Simulations have been created based on the statistics of previous winners. The statistics considered were age, weight, breeding, odds, and rating. Based on the the trends of winners of this race from the previous twenty years I have simulated two hundred runnings of the race and added all data to a dataframe. This dataframe provides a guideline as to the probable characteristics of a winning horse in this race. This could be used to help predict successful horses in this steeplechase.  
 
 As certain assumptions are made when building this simulation, and some outliers have been removed based on this author's opinion, adjustments can be made to this notebook if required on a user's copy. Also, in subsequent years trends may change, e.g. the age profile of winners could change based on rule changes in the race. Should the user wish to change a simulated variable it can be done as follows:
 
@@ -70,7 +70,7 @@ Details of the packages used are included below:
 
 ### Numpy
 
-Numpy, or numerical Python, is a library used in Python to create different types of arrays or multi-dimensional matrices, and includes a large collection of mathematical functions to operate on these arrays.[1]. In this case Numpy will be used to simulate data using the numpy.random package based on certain mathematical distributions.  
+Numpy, or numerical Python, is a library used in Python to create different types of arrays or multi-dimensional matrices, and includes a large collection of mathematical functions to operate on these arrays. In this case Numpy will be used to simulate data using the numpy.random package based on certain mathematical distributions.  
 
 ### Pandas
  
